@@ -40,6 +40,7 @@ class Calculator {
      */
     int fibonacciNumberFinder(int n){
         System.out.print(n);
+        System.out.print(n);
         if (n==0)
             return 0;
         else if (n==1)
