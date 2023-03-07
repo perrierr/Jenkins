@@ -9,7 +9,7 @@ public class CalculatorTest {
     @Test
     public void addTest(){
         Calculator myCalculator = new Calculator();
-
+        //Add comment
         assertEquals(6 , myCalculator.add(2,4));
         assertEquals(6 , myCalculator.add(3,3));
         assertEquals(6 , myCalculator.add(0,6));
